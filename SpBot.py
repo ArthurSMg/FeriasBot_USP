@@ -12,11 +12,11 @@ auth.set_access_token(key, secret)
 
 api = tweepy.API(auth)
 
-ferias = datetime.date(2021,7,31)
-agora = datetime.date.today()
+ferias = datetime.date(2021,7,31) #Colocar o dia das férias
+agora = datetime.date.today() #Computa o dia de hoje
 
-fdias_horas = str(ferias - agora)
+fdias_horas = str(ferias - agora) # Diferença entre os dias colocados anteriormente (Tempo para as ferias)
 fdias = fdias_horas[0:3] #para tirar o horario e me dar somente os dias
 
 
-api.update_status("Faltam " + fdias + "dias para as férias da USP")
+api.update_status("Faltam " + fdias + "dias para as férias da USP") #Tweeta
