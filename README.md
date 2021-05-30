@@ -1,8 +1,16 @@
 # FeriasBot_USP
-Esse é um bot simples escrito em Python 3.8 com o obejetivo de twittar todo dia dizendo quantos dias faltam para as férias na USP.
 
-Futuramente tenho planos de adicionar novas funcionalidades para contar o tempo para as férias de outras faculdades de SP, como UNICAMP e outras, mudanças são sempre bem vindas! 
+Esse é um bot simples escrito em Python 3.8 com o obejetivo de twittar todo dia dizendo quantos dias faltam para as férias na USP. 
+O perfil do Bot no twitter pode ser achado por [@SpFerias](https://twitter.com/SpFerias)
 
-O Bot é muito simples pois utiliza a bilbioteca do Python datetime, que tem uma função que calcula o dia exato em que você está, e para cacular a diferença até as férias eu apenas coloquei o dia em que as aulas terminam manualmente. 
+O código que utilizei pode se encontrado aqui, e é muito simples pois utiliza a biblioteca (datetime) do Python, que tem uma função para calcular o dia atual e uma função em que eu coloco manualmente a data de término das aulas. Consequentemente os dias que faltam para as férias são definidos como a diferença entre estes dois.
+
+O Bot esta hospedado no site [pythonanywhere](https://www.pythonanywhere.com), e é programado para rodar o mesmo código todos os dias às 11:00 da manhã
+
+## Outros Bots que foram inspirados neste projeto :U+1F916: :
+
+[@vestunicampBOT](https://twitter.com/vestunicampBOT)
+
+
 
 Aproveitem :)
