@@ -7,10 +7,8 @@ O código que utilizei pode se encontrado aqui, e é muito simples pois utiliza 
 
 O Bot esta hospedado no site [pythonanywhere](https://www.pythonanywhere.com), e é programado para rodar o mesmo código todos os dias às 11:00 da manhã
 
-## Outros Bots que foram inspirados neste projeto :robot: :
+**Outros Bots que foram inspirados neste projeto :robot:** :
 
 [@vestunicampBOT](https://twitter.com/vestunicampBOT)
-
-
 
 Aproveitem :)
