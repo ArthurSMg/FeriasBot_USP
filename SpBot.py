@@ -1,4 +1,4 @@
-### Bot 1.2   
+### Bot versão 1.2   
 
 import tweepy
 import datetime 
