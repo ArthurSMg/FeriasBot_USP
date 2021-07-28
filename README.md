@@ -9,6 +9,7 @@ O perfil do Bot no twitter pode ser achado por [@SpFerias](https://twitter.com/S
 
 * **Outros Bots que foram inspirados neste projeto :robot:** :
 
-[@vestunicampBOT](https://twitter.com/vestunicampBOT)
+- [@vestunicampBOT](https://twitter.com/vestunicampBOT)
+- [@BotFeriasUFSCar](https://twitter.com/BotFeriasUFSCar)
 
 Aproveitem :)
