@@ -15,7 +15,7 @@ auth.set_access_token(key, secret)
 api = tweepy.API(auth)
 
 
-ferias = datetime.date(2021,21,12) #Colocar o dia das férias
+ferias = datetime.date(2021,12,21) #Colocar o dia das férias
 agora = datetime.date.today() #Computa o dia de hoje
 
 fdias_horas = ferias - agora # Diferença entre os dias colocados anteriormente (Tempo para as ferias)
