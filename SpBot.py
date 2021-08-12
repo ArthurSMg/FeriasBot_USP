@@ -26,14 +26,13 @@ fdias = fdias_horas.days  #Agora pegamos somente os dias
 if fdias !=1:
 
     if fdias % 10 == 0: #Testando para ver se o dia é um multiplo de 10
-        #api.update_status("Faltam " + fdias + "dias para as férias da USP!!!")
-        print("Faltam " + str(fdias) + " dias para as férias da USP!!!")
-
+        api.update_status("Faltam " + fdias + "dias para as férias da USP!!!")
+       
     if fdias % 10 != 0: #Testando para ver se o dia é um multiplo de 10
-        #api.update_status("Faltam " + fdias + "dias para as férias da USP")
-        print("Faltam " + str(fdias) + " dias para as férias da USP")
+        api.update_status("Faltam " + fdias + "dias para as férias da USP")
+        
 
 if fdias == 1:
-    print("Falta " + str(fdias) + " dia para as férias da USP!!!")
+    api.update_status("Falta " + str(fdias) + " dia para as férias da USP!!!")
 
         
