@@ -18,8 +18,7 @@ api = tweepy.API(auth)
 ferias = datetime.date() #Coloque aqui a data do inínio das férias no modelo (ANO,MES,DIA)
 agora = datetime.date.today() #Computa o dia de hoje
 
-fdias_horas = ferias - agora # Diferença entre os dias colocados anteriormente (Tempo para as ferias)
-fdias = fdias_horas.days  #Agora pegamos somente os dias 
+fdias = (ferias - agora).days # Diferença entre os dias colocados anteriormente (Tempo para as ferias)
 
 #Temos que separa o caso em que falta apenas 1 dia, para poder mudar "dias" para "dia" no tweet
 
