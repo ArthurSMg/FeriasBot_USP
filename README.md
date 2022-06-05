@@ -17,5 +17,6 @@ O perfil do Bot no twitter pode ser achado por [@SpFerias](https://twitter.com/S
 - [@UtfprFerias](https://twitter.com/UtfprFerias)
 - [@feriasufpr](https://twitter.com/feriasufpr)
 - [@FeriasPucpr](https://mobile.twitter.com/feriaspucpr)
+- [@feriasfeg](https://twitter.com/feriasfeg)
 
 Aproveitem :)
