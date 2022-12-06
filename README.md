@@ -19,4 +19,6 @@ O perfil do Bot no twitter pode ser achado por [@SpFerias](https://twitter.com/S
 - [@FeriasPucpr](https://mobile.twitter.com/feriaspucpr)
 - [@feriasfeg](https://twitter.com/feriasfeg)
 
+E muitos outros que já perdi a conta...
+
 Aproveitem :)
