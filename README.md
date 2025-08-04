@@ -1,5 +1,4 @@
 # FeriasBot_USP
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N47DNYT) 
 
 ### No botão acima você pode apoiar meu trabalho me doando o valor de um copo de café
 
